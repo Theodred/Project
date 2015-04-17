@@ -1,0 +1,18 @@
+E:\Life\C#\Projects\Self\The definition of Insanity\The definition of Insanity\bin\Debug\The definition of Insanity.exe.config
+E:\Life\C#\Projects\Self\The definition of Insanity\The definition of Insanity\bin\Debug\The definition of Insanity.exe
+E:\Life\C#\Projects\Self\The definition of Insanity\The definition of Insanity\bin\Debug\The definition of Insanity.pdb
+E:\Life\C#\Projects\Self\The definition of Insanity\The definition of Insanity\obj\Debug\The definition of Insanity.csprojResolveAssemblyReference.cache
+E:\Life\C#\Projects\Self\The definition of Insanity\The definition of Insanity\obj\Debug\The_definition_of_Insanity.Form1.resources
+E:\Life\C#\Projects\Self\The definition of Insanity\The definition of Insanity\obj\Debug\The_definition_of_Insanity.Properties.Resources.resources
+E:\Life\C#\Projects\Self\The definition of Insanity\The definition of Insanity\obj\Debug\The definition of Insanity.csproj.GenerateResource.Cache
+E:\Life\C#\Projects\Self\The definition of Insanity\The definition of Insanity\obj\Debug\The definition of Insanity.exe
+E:\Life\C#\Projects\Self\The definition of Insanity\The definition of Insanity\obj\Debug\The definition of Insanity.pdb
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The definition of Insanity\bin\Debug\The definition of Insanity.exe.config
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The definition of Insanity\obj\Debug\The definition of Insanity.exe
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The definition of Insanity\obj\Debug\The definition of Insanity.pdb
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The definition of Insanity\bin\Debug\The definition of Insanity.exe
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The definition of Insanity\bin\Debug\The definition of Insanity.pdb
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The definition of Insanity\obj\Debug\The definition of Insanity.csprojResolveAssemblyReference.cache
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The definition of Insanity\obj\Debug\The_definition_of_Insanity.Form1.resources
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The definition of Insanity\obj\Debug\The_definition_of_Insanity.Properties.Resources.resources
+C:\Users\Theodred\AppData\Roaming\Skype\My Skype Received Files\The definition of Insanity\obj\Debug\The definition of Insanity.csproj.GenerateResource.Cache
